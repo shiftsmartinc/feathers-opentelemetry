@@ -10,7 +10,7 @@
     "opentelemetry",
     "feathersjs"
   ],
-  "author": "deskoh",
+  "author": "@shiftsmartinc/engineering",
   "license": "ISC",
   "dependencies": {
     "@feathersjs/express": "5.0.0-pre.4",
